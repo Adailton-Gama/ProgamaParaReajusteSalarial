@@ -1,5 +1,3 @@
-#Programa que recebe o salário de um colaborador e o reajusta segundo o seguinte critério, baseado no salário atual:
-
 print()
 print('AC Informática')
 print()
